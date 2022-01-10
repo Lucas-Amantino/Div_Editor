@@ -1,0 +1,22 @@
+{
+  "name": "diveditor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucas-Amantino/Div_Editor.git"
+  },
+  "author": "Lucas Amantino <lucasam4ntin0@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lucas-Amantino/Div_Editor/issues"
+  },
+  "homepage": "https://github.com/Lucas-Amantino/Div_Editor#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
